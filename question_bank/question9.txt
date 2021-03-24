@@ -1,0 +1,5 @@
+Which of the following is system software?
+a. Linux
+b. Word
+c. Excel
+d. Tally

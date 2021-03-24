@@ -1,0 +1,5 @@
+The brain of any computer system is
+a. ALU
+b. CPU
+c. Memory
+d. None of the above

@@ -1,0 +1,5 @@
+The section of the CPU that is responsible forperforming mathematical operations are 
+a. Memory
+b. Register Unit
+c. Control Unit
+d. ALU
